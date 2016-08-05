@@ -4,6 +4,7 @@
 # 设计
 *  [http-api-design](https://github.com/interagent/http-api-design)
 *  [hug](https://github.com/timothycrosley/hug):依赖很少，只依赖[falcon](https://github.com/falconry/falcon),falcon也精简。目前只支持python3
+*  用flask？
 
 # 问题
 *  是否需要做成RESTful服务
