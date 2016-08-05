@@ -1,6 +1,9 @@
 # NLP_api
 将自然语言处理作为服务
 
+# 设计
+*  [http-api-design](https://github.com/interagent/http-api-design)
+*  [hug]([https://github.com/timothycrosley/hug):依赖很少，只依赖[falcon](https://github.com/falconry/falcon),falcon也精简
 
 # 问题
 *  是否需要做成RESTful服务
